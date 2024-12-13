@@ -1,1 +1,17 @@
-
+ 2 ls
+   3 cd .\terraform\
+   4 clear
+   5 ls
+   6 ssh-keygen
+   7 ls
+   8 terraform init
+   9 clear
+  10 terraform init
+  11 clear
+  12 terraform plan
+  13 terraform plan
+  14 terraform plan
+  15 clear
+  16 terraform plan
+  17 clear
+  18 terraform plan
